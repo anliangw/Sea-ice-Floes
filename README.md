@@ -1,4 +1,4 @@
-# Sea-ice-Floes
+# Identifing Sea-ice-Floes
 Integrating a Data-Driven Classifier and Shape-Modulated Segmentation for Sea-Ice Floe Extraction
 Sea-ice images are foundational resources for studying the evolution of sea-ice floes (SIFs). However, extracting SIFs from diverse and complex 
 sea-ice images using conventional segmentation methods is both tedious and challenging. The precision of identified SIFs is often compromised 
