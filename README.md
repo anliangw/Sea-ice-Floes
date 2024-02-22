@@ -22,4 +22,10 @@ Here, the Fig. 18b (orthorecfied Fig. 1b) is taken as an example to explain how 
 (2) The codes file can be read by many software such as notepad.
 (3) The codes should be run in Fiji (File -> Open -> seaice.ijm -> Run). 
 (4) Make sure that plugins Weka and BioVoxxel are correctly installed in your Fiji.
+
+
+Please Cite: 
+A. Wang, B. Wei, J. Sui, J. Wang, N. Xu, G. Hao. Integrating a data-driven classifier and shape-modulated segmentation for sea-ice floe extraction.
+International Journal of Applied Earth Observation and Geoinformation, 2024, 128:103726. https://doi.org/10.1016/j.jag.2024.103726.
+
  
